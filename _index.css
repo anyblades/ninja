@@ -5,15 +5,14 @@
  */
 
 /* Layout */
-@import "./_container-breakout";
-@import "./_scroll-to";
+@import "./_container-breakout.css";
 
 /* Content */
-@import "./_heading-anchor";
-@import "./_list-helpers";
-@import "./_table-helpers";
-@import "./_table-responsive";
+@import "./_heading-anchor.css";
+@import "./_list-helpers.css";
+@import "./_table-helpers.css";
+@import "./_table-responsive.css";
 
 /* Other */
-@import "./_utilities";
-@import "./_theme";
+@import "./_utilities.css";
+@import "./_theme.css";
