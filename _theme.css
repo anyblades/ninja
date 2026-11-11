@@ -74,16 +74,6 @@ dl {
   }
 }
 
-pre {
-  small {
-    opacity: 75%;
-    font-weight: lighter;
-  }
-  &:has(code) {
-    background: #181c25 !important;
-  }
-}
-
 table {
   th {
     vertical-align: bottom;
